@@ -1,0 +1,2 @@
+The Odin Project learning project. Allows you to draw on the screen like Etch-A-Sketch toys. Allows you to also change colors, go for RGB if you're feeling feisty, or clear the
+screen if you don't like the outcome. Also, the slider bar allows you to add more square to the grid and make it up to a 64x64 grid.
